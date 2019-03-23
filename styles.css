@@ -1,0 +1,25 @@
+p,h1,h2,h3,h4,h5{
+font-family: 'Roboto', sans-serif;
+color: #fff;
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */ 
+}
+#verySoon{
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+border-radius: 20px;
+margin: 2%;
+padding: 1%;
+background: #FB8C00;
+}
+body{
+text-align: center;
+}
+#icon{
+    display: inline-block;
+    border-radius: 50%;
+    height: 25%;
+    width: 25%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
