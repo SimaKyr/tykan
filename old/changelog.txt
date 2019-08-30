@@ -1,0 +1,28 @@
+Changelog 2.3:
+Unknown
+
+Changelog 2.4:
+Unknown
+
+Changelog 2.5:
+In history show name, not URL
+Elements design is good
+Add title & icon site
+Automatically get language
+Translated HintText in EditText
+Add DebugActivity
+
+Changelog 2.6:
+Fixed detector internet.
+Better design(StatusBar is have yellow color)
+Change design settings
+Icons is bigger that old
+Deleted bookmarks
+
+Changelog 2.7:
+Made site
+You can using old or new icon
+Made changelog
+Fixed bags
+Returned button clear history
+Returned bookmarks, bookmarks is a beta
